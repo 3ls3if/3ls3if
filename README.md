@@ -6,7 +6,7 @@ I'm a security-focused developer and systems enthusiast. My work revolves around
 
 ### 🚀 About Me
 
-*   🔭 I'm currently working on advanced auditing tools.
+*   🔭 I'm currently working on advanced auditing tools like **Recon-Auditor** and **Windows-Server-Audit-Script**.
 *   🌱 I'm constantly learning and applying machine learning to source code analysis.
 *   👯 I'm looking to collaborate on open-source security and forensics projects.
 *   💬 Ask me about Python, PowerShell, security auditing, and digital forensics.
@@ -35,8 +35,11 @@ Here are some of my key projects that I'm proud of:
 
 ### 📊 My GitHub Stats
 
-**Your GitHub stats**  
-**Top Languages**
+![3ls3if's GitHub stats](https://github-readme-stats.vercel.app/api?username=3ls3if&show_icons=true&theme=radical&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=3ls3if&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=3ls3if&theme=radical)
 
 ### 🤝 Let's Connect
 
