@@ -35,10 +35,6 @@ Here are some of my key projects that I'm proud of:
 
 ### 📊 My GitHub Stats
 
-![3ls3if's GitHub stats](https://github-readme-stats.vercel.app/api?username=3ls3if&show_icons=true&theme=radical&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=3ls3if&layout=compact&theme=radical)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=3ls3if&theme=radical)
 
 ### 🤝 Let's Connect
