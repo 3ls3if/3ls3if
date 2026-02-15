@@ -1,6 +1,6 @@
 # Hi there, I'm 3ls3if 👋
 
-I'm a security-focused developer and systems enthusiast. My work revolves around building tools for digital forensics, security auditing, and system administration.
+I'm a security-focused system administrator and tech enthusiast. My work revolves around building tools for digital forensics, security auditing, and system administration.
 
 ---
 
