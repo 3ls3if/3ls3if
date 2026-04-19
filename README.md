@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rohan
 
-### 💻 Windows System Administrator | M365 Specialist | Desktop Support Engineer
+### 💻 System Administrator
 
 🔗 [LinkedIn](https://linkedin.com/in/iamrohandas)
 
