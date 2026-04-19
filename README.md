@@ -161,5 +161,3 @@ Open-source tool for data scraping and sensitive content discovery in web applic
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-iamrohandas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iamrohandas)
 
 ---
-
-*⚡ Open to opportunities in Desktop Support, Windows System Administration, and M365 Administration roles.*
