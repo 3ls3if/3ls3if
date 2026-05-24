@@ -123,15 +123,6 @@ Comprehensive security posture assessment tool for Windows environments.
 - Firewall status, UAC, SMB protocol auditing
 - Local admin group membership analysis
 
-### 🌐 Recon Auditor
-*Python*
-
-Open-source network reconnaissance and security auditing tool.
-
-### 🕷️ Web Scraper
-*Python*
-
-Open-source tool for data scraping and sensitive content discovery in web applications.
 
 ---
 
