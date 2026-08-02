@@ -1,154 +1,291 @@
-# 👋 Hi, I'm Rohan
+# 👋 Hi, I'm Rohan Das
 
-### 💻 System Administrator
+### 🚀 Microsoft 365 Administrator | Windows Infrastructure Engineer | PowerShell Automation
 
-🔗 [LinkedIn](https://linkedin.com/in/iamrohandas)
+<p align="left">
+  <a href="https://linkedin.com/in/iamrohandas">
+    <img src="https://img.shields.io/badge/LinkedIn-iamrohandas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=iamrohandas&style=for-the-badge&color=blue" alt="Profile Views">
+</p>
 
----
-
-## 🛠️ Technical Skills
-
-### 🖥️ Operating Systems & Server Administration
-![Windows Server](https://img.shields.io/badge/Windows_Server-2016_|_2019_|_2022_|_2025-0078D6?style=flat&logo=windows&logoColor=white)
-![Windows 10/11](https://img.shields.io/badge/Windows_10_|_11-0078D6?style=flat&logo=windows&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-Troubleshooting-000000?style=flat&logo=apple&logoColor=white)
-
-**Active Directory & Core Services**
-![AD DS](https://img.shields.io/badge/Active_Directory-Domain_Services-003366?style=flat&logo=microsoft&logoColor=white)
-![GPO](https://img.shields.io/badge/Group_Policy-GPO-003366?style=flat&logo=microsoft&logoColor=white)
-![DNS](https://img.shields.io/badge/DNS-Server-003366?style=flat&logo=microsoft&logoColor=white)
-![DHCP](https://img.shields.io/badge/DHCP-Server-003366?style=flat&logo=microsoft&logoColor=white)
-![AD CS](https://img.shields.io/badge/AD_CS-Certificate_Services-003366?style=flat&logo=microsoft&logoColor=white)
-![AD FS](https://img.shields.io/badge/AD_FS-Federation_Services-003366?style=flat&logo=microsoft&logoColor=white)
-![WDS](https://img.shields.io/badge/WDS-Deployment_Services-003366?style=flat&logo=microsoft&logoColor=white)
-![IIS](https://img.shields.io/badge/IIS-Web_Server-003366?style=flat&logo=microsoft&logoColor=white)
-![Azure AD Connect](https://img.shields.io/badge/Azure_AD_Connect-Hybrid_Identity-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Microsoft+365+Administrator;Windows+Infrastructure+Engineer;PowerShell+Automation+Enthusiast;Enterprise+Security+%7C+Cloud+%7C+Virtualization;Always+Learning+New+Technologies" />
+</p>
 
 ---
 
-### ☁️ Microsoft 365 Administration
-![Exchange Online](https://img.shields.io/badge/Exchange_Online-Mail_Flow-0078D4?style=flat&logo=microsoft&logoColor=white)
-![Intune](https://img.shields.io/badge/Intune-MDM_|_MAM-0078D4?style=flat&logo=microsoft&logoColor=white)
-![Entra ID](https://img.shields.io/badge/Entra_ID-MFA_|_SSO_|_CA-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Teams](https://img.shields.io/badge/Teams-Administration-6264A7?style=flat&logo=microsoftteams&logoColor=white)
-![SharePoint](https://img.shields.io/badge/SharePoint-Online-038387?style=flat&logo=microsoftsharepoint&logoColor=white)
-![OneDrive](https://img.shields.io/badge/OneDrive-Business-0078D4?style=flat&logo=microsoftonedrive&logoColor=white)
-![Purview](https://img.shields.io/badge/Purview-Compliance_|_DLP-0078D4?style=flat&logo=microsoft&logoColor=white)
-![Graph API](https://img.shields.io/badge/Microsoft_Graph-API-5E5E5E?style=flat&logo=microsoft&logoColor=white)
+# 💼 About Me
+
+I'm a **System Administrator** with experience in **Microsoft 365**, **Windows Server Infrastructure**, **PowerShell Automation**, and **Enterprise Security**.
+
+I enjoy designing, securing, automating, and troubleshooting enterprise IT environments while continuously learning modern cloud and infrastructure technologies.
 
 ---
 
-### 🔒 Security & Endpoint Protection
-![Sophos](https://img.shields.io/badge/Sophos-Intercept_X_XDR-4A90E2?style=flat&logo=sophos&logoColor=white)
-![CrowdStrike](https://img.shields.io/badge/CrowdStrike-Falcon-EC1C24?style=flat&logo=crowdstrike&logoColor=white)
-![Windows Defender](https://img.shields.io/badge/Windows_Defender-Antivirus-00ADEF?style=flat&logo=windows&logoColor=white)
-![Wazuh](https://img.shields.io/badge/Wazuh-SIEM-4A90E2?style=flat&logo=wazuh&logoColor=white)
-![FortiGate](https://img.shields.io/badge/FortiGate-Firewall_|_WAF-EE3124?style=flat&logo=fortinet&logoColor=white)
+# 🚀 Core Skills
+
+### ☁️ Microsoft 365
+
+- Microsoft 365 Administration
+- Exchange Online
+- Microsoft Teams
+- SharePoint Online
+- OneDrive for Business
+- Microsoft Entra ID
+- Microsoft Intune (MDM & MAM)
+- Microsoft Purview
+- Microsoft Graph API
+- Azure AD Connect
+- Exchange Hybrid
+- Mail & Tenant Migration
+
+---
+
+### 🖥 Windows Infrastructure
+
+- Windows Server 2016 / 2019 / 2022 / 2025
+- Active Directory Domain Services
+- Group Policy
+- DNS
+- DHCP
+- AD CS
+- AD FS
+- IIS
+- WDS
+- Windows Administration
+- Server Performance Tuning
+- Failover Troubleshooting
+
+---
+
+### 🔐 Security
+
+- Microsoft Defender
+- Sophos Intercept X
+- CrowdStrike Falcon
+- Wazuh SIEM
+- FortiGate Firewall
+- MFA
+- Conditional Access
+- Security Hardening
+- Vulnerability Assessment
+- Incident Response
+- Email Security
+- Endpoint Protection
 
 ---
 
 ### 🌐 Networking
-![Cisco](https://img.shields.io/badge/Cisco-Catalyst_2960--X_|_3650-1BA0D7?style=flat&logo=cisco&logoColor=white)
-![Cisco Router](https://img.shields.io/badge/Cisco-ISR_4221_|_4321-1BA0D7?style=flat&logo=cisco&logoColor=white)
-![TCP/IP](https://img.shields.io/badge/TCP_|_IP-Protocol_Suite-000000?style=flat)
-![DNS](https://img.shields.io/badge/DNS-Records_(A,_MX,_TXT,_SPF,_DKIM,_DMARC)-0055CC?style=flat)
-![VPN](https://img.shields.io/badge/VPN-IPsec_|_SSL-0055CC?style=flat)
-![Wireshark](https://img.shields.io/badge/Wireshark-Packet_Analysis-1679A7?style=flat&logo=wireshark&logoColor=white)
+
+- TCP/IP
+- Routing & Switching
+- Cisco Catalyst
+- Cisco ISR
+- VLAN
+- VPN
+- DNS
+- SPF
+- DKIM
+- DMARC
+- Wireshark
+- Network Troubleshooting
 
 ---
 
-### 🗄️ Database & Web Servers
-![MSSQL](https://img.shields.io/badge/Microsoft_SQL_Server-Administration-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=flat&logo=postgresql&logoColor=white)
-![IIS](https://img.shields.io/badge/IIS-ARR_|_URL_Rewrite-003366?style=flat&logo=microsoft&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-Web_Server-D22128?style=flat&logo=apache&logoColor=white)
-![Tomcat](https://img.shields.io/badge/Tomcat-Application_Server-F8DC75?style=flat&logo=apachetomcat&logoColor=black)
+### 💾 Databases & Web
+
+- Microsoft SQL Server
+- MySQL
+- PostgreSQL
+- IIS
+- Apache
+- Tomcat
+- ARR
+- URL Rewrite
 
 ---
 
-### 💾 Backup & Disaster Recovery
-![Acronis](https://img.shields.io/badge/Acronis-Cyber_Backup_Advanced-0033A0?style=flat&logo=acronis&logoColor=white)
-![Migration](https://img.shields.io/badge/Migration-Mail_|_Database_|_VM_|_Drive-0055CC?style=flat)
+### 🖥 Virtualization
+
+- Proxmox VE
+- VMware Workstation
+- Oracle VirtualBox
 
 ---
 
-### 🖥️ Virtualization
-![Proxmox](https://img.shields.io/badge/Proxmox-VE-E57000?style=flat&logo=proxmox&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-Workstation-607078?style=flat&logo=vmware&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-Virtualization-183A61?style=flat&logo=virtualbox&logoColor=white)
+### 🔄 Backup & Migration
+
+- Acronis Cyber Protect
+- Microsoft 365 Migration
+- Exchange Migration
+- SharePoint Migration
+- OneDrive Migration
+- SQL Migration
+- VM Migration
 
 ---
 
-### 🎫 ITSM & Remote Support
-![Jira](https://img.shields.io/badge/Jira-Service_Management-0052CC?style=flat&logo=jira&logoColor=white)
-![WHMCS](https://img.shields.io/badge/WHMCS-Ticketing-0066CC?style=flat)
-![AnyDesk](https://img.shields.io/badge/AnyDesk-Remote_Support-EF3B24?style=flat&logo=anydesk&logoColor=white)
-![TeamViewer](https://img.shields.io/badge/TeamViewer-Remote_Support-004680?style=flat&logo=teamviewer&logoColor=white)
+### ⚡ Automation
+
+- PowerShell
+- Bash
+- Windows Batch
+- Scheduled Tasks
+- REST API
+- PowerShell Remoting
 
 ---
 
-### 📜 Scripting & Automation
-![PowerShell](https://img.shields.io/badge/PowerShell-Advanced-5391FE?style=flat&logo=powershell&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-Basic-4EAA25?style=flat&logo=gnubash&logoColor=white)
+# 🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=windows,powershell,bash,azure,mysql,postgres,git,github,nodejs,react,linux" />
+
+</p>
 
 ---
 
-## 📂 Featured Projects
+# 📂 Featured Projects
 
-### 🖥️ Centralized Fleet Monitoring System
-*React · Node.js · SQLite · PowerShell · Bash*
+## 🖥 Enterprise Server Monitoring Platform
 
-Enterprise-grade cross-platform telemetry dashboard for unified server health monitoring.
-- Lightweight agents for Windows (PowerShell) and Linux (Bash)
-- Real-time CPU/RAM, TCP connection states, and Windows Service/IIS status
-- Over-the-air configuration updates without direct server access
-- Native event log parsing (Event Viewer / journalctl)
+Enterprise monitoring solution built using **React**, **Node.js**, **PowerShell**, **SQLite**, and **Bash**.
 
-### 📊 Windows Server Health Monitor
-*PowerShell · HTML5 · Chart.js*
+### Features
 
-Continuous monitoring script that generates an interactive executive dashboard.
-- Historical resource trend analysis (CPU, Memory)
-- Per-user resource consumption tracking
-- Active user session details (`quser` equivalent)
-- Intelligent alerting with actionable remediation steps
-
-### 🛡️ Windows Server Security & EDR Audit Script
-*PowerShell · HTML · Windows Event Log*
-
-Comprehensive security posture assessment tool for Windows environments.
-- Security software detection (Sophos, CrowdStrike, Acronis)
-- Risk-scored HTML report with color-coded severity levels
-- Firewall status, UAC, SMB protocol auditing
-- Local admin group membership analysis
-
+- Real-time CPU Monitoring
+- RAM Monitoring
+- Disk Monitoring
+- TCP Connection Monitoring
+- Windows Service Monitoring
+- IIS Monitoring
+- Linux Agent
+- Windows Agent
+- Event Log Monitoring
+- OTA Configuration Updates
+- Interactive Dashboard
 
 ---
 
-## 📜 Certifications
+## 📊 Windows Server Health Dashboard
+
+PowerShell-based monitoring solution.
+
+### Features
+
+- CPU & Memory Analysis
+- User Session Monitoring
+- IIS Status
+- SQL Server Monitoring
+- HTML Dashboard
+- Historical Reports
+- Alerting
+- Interactive Charts
+
+---
+
+## 🛡 Windows Server Security Audit Toolkit
+
+Enterprise PowerShell auditing toolkit.
+
+### Features
+
+- Security Risk Scoring
+- Firewall Audit
+- SMB Audit
+- Antivirus Detection
+- RDP Configuration Review
+- Local Administrator Audit
+- Event Log Analysis
+- Executive HTML Report
+
+---
+
+## ☁️ Microsoft 365 Automation Toolkit
+
+Automation scripts for Microsoft 365 administration.
+
+### Includes
+
+- User Provisioning
+- License Assignment
+- Mailbox Management
+- Teams Automation
+- SharePoint Administration
+- Exchange Reporting
+- Intune Reporting
+- Bulk User Operations
+
+---
+
+# 🏆 Certifications
 
 | Certification | Issuer |
-| :--- | :--- |
-| **MS-102: Microsoft 365 Administrator Expert** | Microsoft |
-| **Certified Ethical Hacker (CEH Master)** | EC-Council |
-| **Certified Network Defender (CND)** | EC-Council |
-| **Plesk Obsidian Professional Certification** | Plesk |
-| **Acronis Cloud Tech Associate (Advanced Backup)** | Acronis |
+|---------------|--------|
+| Microsoft 365 Administrator Expert (MS-102) | Microsoft |
+| Certified Ethical Hacker (CEH Master) | EC-Council |
+| Certified Network Defender (CND) | EC-Council |
+| Plesk Obsidian Professional | Plesk |
+| Acronis Cloud Tech Associate | Acronis |
 
 ---
 
-## 📈 GitHub Stats
+# 📈 GitHub Stats
 
-![Rohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamrohandas&show_icons=true&theme=dark&hide_border=true&count_private=true)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamrohandas&layout=compact&theme=dark&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=iamrohandas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamrohandas&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iamrohandas&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
+# 📊 Contribution Graph
 
-## 📫 Connect With Me
+<p align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-iamrohandas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iamrohandas)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamrohandas&theme=tokyo-night&hide_border=true"/>
+
+</p>
 
 ---
+
+# 🏅 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=iamrohandas&theme=onedark&column=7&no-frame=true"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/iamrohandas">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 💡 Motto
+
+> **"Automating infrastructure, securing environments, and building reliable enterprise solutions."**
