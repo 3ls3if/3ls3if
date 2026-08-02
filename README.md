@@ -59,7 +59,7 @@ I enjoy designing, securing, automating, and troubleshooting enterprise IT envir
 
 ---
 
-### 🔐 Security
+### 🔐 Security Tools
 
 - Microsoft Defender
 - Sophos Intercept X
@@ -92,6 +92,91 @@ I enjoy designing, securing, automating, and troubleshooting enterprise IT envir
 - Network Troubleshooting
 
 ---
+
+# 🛡 Cybersecurity
+
+### Microsoft Security
+
+- Microsoft Defender for Endpoint
+- Microsoft Defender for Office 365
+- Microsoft Entra ID
+- Conditional Access
+- Multi-Factor Authentication
+- Microsoft Intune
+- Microsoft Purview
+- Exchange Online Protection
+- Microsoft Secure Score
+
+---
+
+### Endpoint Security
+
+- Sophos Intercept X
+- Sophos XDR
+- CrowdStrike Falcon
+- Wazuh SIEM
+- Windows Defender
+- Endpoint Hardening
+
+---
+
+### Security Operations
+
+- Incident Response
+- Malware Analysis
+- Web Shell Detection
+- IOC Investigation
+- Windows Event Log Analysis
+- Security Auditing
+- Threat Hunting
+- Log Analysis
+
+---
+
+### Infrastructure Security
+
+- Windows Server Hardening
+- IIS Security Hardening
+- SQL Server Security Hardening
+- Active Directory Security
+- RDP Hardening
+- Least Privilege
+- Secure Remote Access
+- Firewall Management
+
+---
+
+### Email Security
+
+- SPF
+- DKIM
+- DMARC
+- Exchange Online Protection
+- Anti-Spam
+- Anti-Phishing
+- Mail Flow Security
+
+---
+
+### Network Security
+
+- FortiGate Firewall
+- VPN
+- IDS / IPS
+- Network Traffic Analysis
+- Wireshark
+- TCP/IP Analysis
+- DNS Security
+
+---
+
+### Vulnerability Management
+
+- Vulnerability Assessment
+- Patch Management
+- CVE Mitigation
+- Security Compliance
+- Risk Assessment
 
 ### 💾 Databases & Web
 
@@ -267,9 +352,7 @@ Automation scripts for Microsoft 365 administration.
 # 🏅 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=iamrohandas&theme=onedark&column=7&no-frame=true"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=iamrohandas&theme=algolia&margin-w=15&margin-h=15&no-frame=true" />
 </p>
 
 ---
