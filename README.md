@@ -317,17 +317,6 @@ Automation scripts for Microsoft 365 administration.
 | Plesk Obsidian Professional | Plesk |
 | Acronis Cloud Tech Associate | Acronis |
 
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=iamrohandas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamrohandas&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ---
 
