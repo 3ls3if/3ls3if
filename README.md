@@ -178,6 +178,8 @@ I enjoy designing, securing, automating, and troubleshooting enterprise IT envir
 - Security Compliance
 - Risk Assessment
 
+---
+
 ### 💾 Databases & Web
 
 - Microsoft SQL Server
@@ -226,7 +228,7 @@ I enjoy designing, securing, automating, and troubleshooting enterprise IT envir
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=windows,powershell,bash,azure,mysql,postgres,git,github,nodejs,react,linux" />
+<img src="https://skillicons.dev/icons?i=windows,azure,powershell,bash,nodejs,react,git,github,mysql,postgres,sqlite,linux,vscode" />
 
 </p>
 
