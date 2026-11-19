@@ -131,6 +131,6 @@ Available in English, Assamese, Chinese, and Japanese, with multiple themes and 
 
 Have an infrastructure, migration, or automation challenge?
 
-**[LinkedIn](https://linkedin.com/in/iamrohandas)** · **[Blog](https://rohan.us.ci)** · **[Portfolio](https://3ls3if.github.io/portfolio/)** · **[Notes](https://r0han.gitbook.io)**
+**[LinkedIn](https://linkedin.com/in/iamrohandas)** · **[Blog](https://rohan.us.ci)** · **[Portfolio](https://portfolio.rohan.us.ci/)** · **[Notes](https://github.com/3ls3if/sys-admin-book/)**
 
 </div>
