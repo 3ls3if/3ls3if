@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-iamrohandas-0A66C2?style=for-the-badge)](https://linkedin.com/in/iamrohandas)
 [![Blog](https://img.shields.io/badge/Blog-rohan.us.ci-0F172A?style=for-the-badge)](https://rohan.us.ci)
-[![Portfolio](https://img.shields.io/badge/Portfolio-3ls3if.github.io-0F172A?style=for-the-badge)](https://portfolio.rohan.us.ci/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-rohan.us.ci-0F172A?style=for-the-badge)](https://portfolio.rohan.us.ci/)
 [![Notes](https://img.shields.io/badge/Notes-GitHub-0F172A?style=for-the-badge)](https://github.com/3ls3if/sys-admin-book/)
 
 </div>
