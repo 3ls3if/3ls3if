@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="Rohan Das - Microsoft 365, Windows Infrastructure, Security and Automation" width="100%">
+<img src="header.svg" alt="Rohan Das - Microsoft 365, Windows Infrastructure, Security and Automation" width="100%">
 
 <br>
 
@@ -37,7 +37,7 @@ I build, secure, and automate **enterprise Windows and Microsoft 365 environment
 
 <div align="center">
 
-<img src="assets/workflow.svg" alt="Workflow: Collect, Verify, Analyze, Automate, Report" width="100%">
+<img src="workflow.svg" alt="Workflow: Collect, Verify, Analyze, Automate, Report" width="100%">
 
 </div>
 
